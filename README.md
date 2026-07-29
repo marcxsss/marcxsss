@@ -22,9 +22,6 @@ Y alguna más...
 
 ## Encuéntrame en:
 
-[![Instagram](https://img.shields.io/badge/Instagram-@just_marcxs-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/just_marcxs/)
-</br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos_Aliaga-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/marcos-aliaga-a6288b20a/)
 [![Web](https://img.shields.io/badge/Web-Marcxs.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://marcxs.com)
 
 
